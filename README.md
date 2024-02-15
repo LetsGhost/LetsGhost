@@ -8,7 +8,7 @@ I love backend!
 
 *   🌍  I'm based in Germany
 *   🚀  I'm currently working on [AthletePT](http://github.com/LetsGhost/Athletept-Next-Version)
-*   🧠  I'm learning TypeScript, NodeJS, Rust, RESTAPI
+*   🧠  I'm learning TypeScript, NodeJS, RESTAPI
 *   🤝  I'm open to collaborating on Backend apps
 *   ⚡  I have a cat named Findus
 
